@@ -35,12 +35,19 @@ nav ul li{
     font-family: 'Roboto';
     padding: 16px;
     display:inline-block;
+    text-align: center;
 }
 .h1{
     font-size: 2em;
+    text-align: center;
 }
 p{
     font-size: 16px;
+    text-align: center;
+}
+h4{
+    font-size: 16px;
+    text-align: left;
 }
 .name-span{
     color: #ffebcd;
